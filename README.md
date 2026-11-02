@@ -24,7 +24,6 @@ Unofficial Windows utility displaying your **aircraft**, **terrain**, **single-p
 - Discord desktop IPC via [pypresence](https://github.com/qwertyquerty/pypresence); no token required
 - Activity is cleared when DCS closes (normally within 15 seconds)
 - No automated updates or telemetry
-- **Shared Discord Application ID:** `1566882349633765446`; Discord application metadata & `dcs_logo` asset must remain available for all users. They are managed by the application's owner, not by this installer.
 
 ## Privacy
 
