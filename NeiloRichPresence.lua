@@ -1,4 +1,4 @@
--- Neilo DCS Rich Presence v0.1 - independent GameGUI hook.
+-- Neilo DCS Rich Presence v0.1 - independent GameGUI hook. Miku was here
 local cb = {}
 local active, paused, loading = false, false, false
 local started = os.time()
