@@ -14,7 +14,7 @@ Unofficial Windows utility displaying your **aircraft**, **terrain**, **single-p
 4. Open Discord Desktop, then DCS. Your presence appears automatically while DCS is running.
 5. Optional: tick **Start silently with Windows** so no console needs to stay open.
 
-**Français :** télécharge l'installateur dans *Releases*, ferme DCS, installe le programme, sélectionne le dossier `Parties enregistrées\DCS` dans l'interface puis clique **Install & Start**. Le démarrage avec Windows est facultatif.
+**Français :** téléchargez l'installateur dans *Releases*, fermez DCS, installez le programme, sélectionnez le dossier `Parties enregistrées\DCS` dans l'interface puis cliquez **Install & Start**. Le démarrage avec Windows est facultatif.
 
 ## Details
 
@@ -53,4 +53,4 @@ On GitHub, `.github/workflows/windows-release.yml` runs on Windows. Use **Action
 
 ## Credits and licensing
 
-Original integration code: Neilo Community, MIT. DCS World is a trademark of Eagle Dynamics SA; the DCS logo is third-party artwork **not** part of the MIT grant. Not affiliated with or endorsed by Eagle Dynamics, Discord, or Valve.
+Original integration code: Neilo, MIT. DCS World is a trademark of Eagle Dynamics SA; the DCS logo is third-party artwork **not** part of the MIT grant. Not affiliated with or endorsed by Eagle Dynamics, Discord, or Valve.
